@@ -5,14 +5,14 @@ by mug
 Converts images that can be used to mod in custom portraits for **Labyrinth of Refrain: Coven of Dusk (PC)**.  
 **Labyrinth of Galleria: The Moon Society** uses different filenames (will need to adapt) but I've been told it otherwise uses identical image formats. YMMV.
 
-See also companion script, [puppetFacebench](https://github.com/muge/puppetFacebench).
+See also companion script, [puppetFacebench](https://github.com/muge/puppetFacebench), which can and should inhabit the same folder as this script for ease of use.
 
 ## I. Pre-amble, License & Disclaimer   
 Kinda jank script that automates what is essentially repacking .dds.phyre files.    
 The concept is taking DDS image data and attaching it to the end of an "empty" .dds.phyre file of the same type.  
 
 This work is now licensed under GNU General Public License v3.0, please refer to the included LICENSE file.  
-*This was FORMERLY licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, which may be found in various archived (pre-2025) versions of this script around the internet.*
+*<sub>This was FORMERLY licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, which may be found in various archived (pre-2025) versions of this script around the internet.</sub>*
 
 **DISCLAIMER**:  
 By using this script you agree that I'm not responsible if you muck up your files (game-related or otherwise) or computer beyond repair.  
