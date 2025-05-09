@@ -128,7 +128,6 @@ There are a few examples later on in this README.
 
 --------
 
-Hopefully you understand a bit better how to use this now.
 
 ### EXAMPLES: 
 - Full-Sized Female Aster Knight Portrait for Palette 1:  
@@ -148,6 +147,8 @@ NOTE: Remember, image-types are detected automatically by dimension hence they a
 4. Output files will be in the `\mods\` folder under the modName you specified.  
 	Said files can then be zipped up and distributed as such.
 
+
+Hopefully you understand a bit better how to use this now.
 
 ## V. "Installation" of files
 **IMPORTANT: IF YOU HAVEN'T BACKED UP YOUR FILES, NOW'S A GOOD TIME!**
@@ -212,5 +213,5 @@ For CharaFace_Icon, please refer to [puppetFacebench](https://github.com/muge/pu
 	Removed /templates/ folder so they can be downloaded separately  
 	Minor updates to the README with the release of puppetFacebench  
 	Additional files added to templates.zip
-  Rewrite and reformat README in markdown for GitHub
+        Rewrite and reformat README in markdown for GitHub
 ```
